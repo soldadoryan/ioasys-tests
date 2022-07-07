@@ -58,7 +58,7 @@ Neste repositório você encontrará a aplicação desenvolvida no KT Front-end 
 
 * **[to_do_list]** Lista implementada utilizando os estados do React para controlar o formulário e teste validando a inserção de uma nova tarefa.
 
-* **[to_do_list]** Adicionando React Hook Form para gerenciamento dos valores do formulário e implementando validação de campo vazio utilizando TDD.
+* **[to_do_list_rhf]** Adicionando React Hook Form para gerenciamento dos valores do formulário e implementando validação de campo vazio utilizando TDD.
 
 <br />
 
