@@ -20,7 +20,6 @@ describe('To do list', () => {
     const button = screen.getByTestId('btnSubmit')
     fireEvent.click(input, '')
     userEvent.click(button)
-    screen.debug()
     await screen.findByText(/O campo não pode estar vazio!/i)
   });
 })
