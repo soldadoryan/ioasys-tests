@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/994590501032427593/994590764682190888/unknown.png" />
+
 ## (🔴 LIVE CODING)[KNOWLEDGE TRANSFER - FRONT-END] - TESTES UNITÁRIOS
 
 <br />
@@ -77,5 +79,9 @@ Neste repositório você encontrará a aplicação desenvolvida no KT Front-end 
 * <a href="https://jestjs.io/">**Jest**</a>
 
 * <a href="https://testing-library.com/docs/react-testing-library/intro">**React Testing Library**</a>
+
+<br />
+
+<br />
 
 **"Você só entende o porquê de utilizar testes quando sente a dor de não tê-los em seu projeto."**
