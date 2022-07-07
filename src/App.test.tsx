@@ -5,5 +5,5 @@ import App from './App';
 test('renders learn react link', async () => {
   render(<App />);
 
-  await screen.findByText(/Teste/i)
+  await screen.findByText(/ioasys Teste/i)
 });
